@@ -1,0 +1,7 @@
+com\travelhut\model\TravelPackage.class
+com\travelhut\model\Destination.class
+com\travelhut\model\Passenger.class
+com\travelhut\model\Activity.class
+com\travelhut\os\App.class
+com\travelhut\os\Functionalities.class
+com\travelhut\model\PassengerType.class
